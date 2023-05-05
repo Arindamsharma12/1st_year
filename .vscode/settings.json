@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "CAL_FUNC.C": "cpp",
+        "math.h": "c"
+    }
+}
